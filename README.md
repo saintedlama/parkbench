@@ -1,5 +1,5 @@
 # parkbench
-![Logo](https://raw.github.com/saintedlama/parkbench/master/assets/logo.svg)
+![Logo](https://cdn.rawgit.com/saintedlama/parkbench/master/assets/logo.svg)
 
 Simplified benchmarks module built on top of benchmark.js (https://benchmarkjs.com/)
 
