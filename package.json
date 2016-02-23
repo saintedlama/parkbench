@@ -1,0 +1,32 @@
+{
+  "name": "parkbench",
+  "version": "0.1.0",
+  "description": "Benchmark like a pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintedlama/parkbench.git"
+  },
+  "keywords": [
+    "benchmark"
+  ],
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintedlama/parkbench/issues"
+  },
+  "homepage": "https://github.com/saintedlama/parkbench#readme",
+  "dependencies": {
+    "beautify-benchmark": "^0.2.4",
+    "benchmark": "^2.1.0",
+    "glob": "^6.0.4",
+    "yargs": "^3.32.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
