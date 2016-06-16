@@ -22,7 +22,7 @@
   "dependencies": {
     "beautify-benchmark": "^0.2.4",
     "benchmark": "^2.1.0",
-    "glob": "^7.0.3",
+    "glob": "^7.0.4",
     "yargs": "^4.6.0"
   },
   "devDependencies": {
