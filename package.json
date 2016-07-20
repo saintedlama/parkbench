@@ -21,7 +21,7 @@
   "homepage": "https://github.com/saintedlama/parkbench#readme",
   "dependencies": {
     "beautify-benchmark": "^0.2.4",
-    "benchmark": "^2.1.0",
+    "benchmark": "^2.1.1",
     "glob": "^7.0.3",
     "yargs": "^4.6.0"
   },
