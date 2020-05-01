@@ -4,7 +4,9 @@
   "description": "Benchmark like a pro",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive"
+    "test": "mocha --recursive",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -23,10 +25,12 @@
     "beautify-benchmark": "^0.2.4",
     "benchmark": "^2.1.0",
     "glob": "^7.0.3",
-    "yargs": "^4.6.0"
+    "yargs": "^4.6.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
-  }
+  },
+  "snyk": true
 }
