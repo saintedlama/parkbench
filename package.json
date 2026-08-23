@@ -21,12 +21,12 @@
   "homepage": "https://github.com/saintedlama/parkbench#readme",
   "dependencies": {
     "beautify-benchmark": "^0.2.4",
-    "benchmark": "^2.1.0",
-    "glob": "^7.0.3",
-    "yargs": "^4.6.0"
+    "benchmark": "^2.1.4",
+    "glob": "^13.0.6",
+    "yargs": "^18.1.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "chai": "^6.2.2",
+    "mocha": "^11.8.0"
   }
 }
